@@ -2,7 +2,7 @@
 
 This repository contains the stuffs related to GitHub Actions. I just recently start learning/exploring about github actions, this repo is to track things that I learn or go through during this learning period.
 
-## CI/CD Basics
+## CI/CD Basics 789
 
 * CI : Continuous Integration : 
     * automating the repetitive works by running a workflow in CI server (pre set) on every(or choosed) commit in respective git repo.
